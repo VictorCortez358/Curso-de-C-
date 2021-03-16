@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\MethodsReturn.exe
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\MethodsReturn.deps.json
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\MethodsReturn.runtimeconfig.json
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\MethodsReturn.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\MethodsReturn.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\ref\MethodsReturn.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\bin\Debug\net5.0\MethodsReturn.pdb
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.AssemblyInfo.cs
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\ref\MethodsReturn.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.pdb
+C:\Users\Giga\Desktop\Curso de C#\MethodsReturn\obj\Debug\net5.0\MethodsReturn.genruntimeconfig.cache

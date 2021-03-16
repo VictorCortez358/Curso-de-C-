@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\MethodsParameters.exe
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\MethodsParameters.deps.json
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\MethodsParameters.runtimeconfig.json
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\MethodsParameters.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\MethodsParameters.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\ref\MethodsParameters.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\bin\Debug\net5.0\MethodsParameters.pdb
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.AssemblyInfo.cs
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\ref\MethodsParameters.dll
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.pdb
+C:\Users\Giga\Desktop\Curso de C#\MethodsParameters\obj\Debug\net5.0\MethodsParameters.genruntimeconfig.cache
