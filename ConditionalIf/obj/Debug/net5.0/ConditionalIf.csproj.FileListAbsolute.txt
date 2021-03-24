@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ConditionalIf.exe
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ConditionalIf.deps.json
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ConditionalIf.runtimeconfig.json
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ConditionalIf.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ConditionalIf.dll
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ref\ConditionalIf.dll
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\bin\Debug\net5.0\ConditionalIf.pdb
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.AssemblyInfo.cs
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.dll
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ref\ConditionalIf.dll
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.pdb
+C:\Users\Giga\Desktop\Curso de C#\ConditionalIf\obj\Debug\net5.0\ConditionalIf.genruntimeconfig.cache

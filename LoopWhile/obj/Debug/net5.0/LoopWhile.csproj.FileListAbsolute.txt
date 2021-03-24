@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\LoopWhile.exe
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\LoopWhile.deps.json
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\LoopWhile.runtimeconfig.json
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\LoopWhile.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\LoopWhile.dll
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\ref\LoopWhile.dll
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\bin\Debug\net5.0\LoopWhile.pdb
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.AssemblyInfo.cs
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.dll
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\ref\LoopWhile.dll
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.pdb
+C:\Users\Giga\Desktop\Curso de C#\LoopWhile\obj\Debug\net5.0\LoopWhile.genruntimeconfig.cache

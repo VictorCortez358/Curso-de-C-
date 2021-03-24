@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\FirstApplication.exe
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\FirstApplication.deps.json
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\FirstApplication.runtimeconfig.json
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\FirstApplication.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\FirstApplication.dll
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\ref\FirstApplication.dll
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\bin\Debug\net5.0\FirstApplication.pdb
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.AssemblyInfo.cs
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.dll
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\ref\FirstApplication.dll
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.pdb
+C:\Users\Giga\Desktop\Curso de C#\FirstApplication\obj\Debug\net5.0\FirstApplication.genruntimeconfig.cache
