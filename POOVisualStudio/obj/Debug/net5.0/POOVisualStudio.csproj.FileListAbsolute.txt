@@ -1,0 +1,16 @@
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\POOVisualStudio.exe
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\POOVisualStudio.deps.json
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\POOVisualStudio.runtimeconfig.json
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\POOVisualStudio.runtimeconfig.dev.json
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\POOVisualStudio.dll
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\ref\POOVisualStudio.dll
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\bin\Debug\net5.0\POOVisualStudio.pdb
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.csprojAssemblyReference.cache
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.AssemblyInfoInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.AssemblyInfo.cs
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.dll
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\ref\POOVisualStudio.dll
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.pdb
+C:\Users\Giga\Desktop\Curso de C#\POOVisualStudio\obj\Debug\net5.0\POOVisualStudio.genruntimeconfig.cache
